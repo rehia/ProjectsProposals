@@ -14,7 +14,7 @@ During Paris events on November 13, 2015 and more globally during any crisis, we
 
 2. **Add wounds/injuries description** Help identify kind of injuries...
 
-3. **Measure victim health constants **Try to give accurate health status to the rescue teams. 
+3. **Measure victim health constants** Try to give accurate health status to the rescue teams. 
 
 # Tools
 
